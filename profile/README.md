@@ -17,5 +17,6 @@
 <img src='https://img.shields.io/github/followers/DataArcTech?color=green&style=social' />
 
 <p align="center">
-  <img src="QR_code.png" width="60%">
+  <img src="QR_code1.png" width="40%">
+  <img src="QR_code2.png" width="40%">
 </p>
